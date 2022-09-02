@@ -1,6 +1,9 @@
 package Oop_polimorphism;
 
-public class Animal {
+public interface Animal {
+
+
+    public void sesiCikar();
 
 
 

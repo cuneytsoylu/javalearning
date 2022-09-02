@@ -1,4 +1,4 @@
-package Oop_Cons;
+package miracHoca.Oop_Cons;
 /*
 Java Encapsulation aslında java sınıfı içerisinde tanımladığımız değişkenlerimizi
 korumak veya saklamak anlamına gelmektedir. Tanımladığımız bir
