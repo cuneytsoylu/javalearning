@@ -18,7 +18,7 @@ public class Lesson2_Array_ArrayList {
         listPazarSepeti.remove("patates");
 
 
-        List<String> listPazarSepeti2 = Arrays.asList(pazarSepeti2);
+        List<String> listPazarSepeti2 = Arrays.asList(pazarSepeti2); // TODO
 
         System.out.println(listPazarSepeti2.size());
         listPazarSepeti.add(1,"çikolata");
@@ -28,7 +28,6 @@ public class Lesson2_Array_ArrayList {
         System.out.println(listPazarSepeti2.get(0));
 
         if(!listPazarSepeti.contains("ketcap")) listPazarSepeti.add("ketcap");
-
 
     }
 }
