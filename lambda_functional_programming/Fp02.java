@@ -6,7 +6,7 @@ import java.util.ArrayList;
 import java.util.Comparator;
 import java.util.List;
 import java.util.stream.Collectors;
-
+/*
 public class Fp02 {
     /*
     1)  t-> "Logic" , (t, u)-> "Logic"
@@ -16,8 +16,8 @@ public class Fp02 {
     3) "Method Reference" kullanımı "Class Name :: Method Name"
        Aynı zamanda kendi class'larınızı da kullanabilirsiniz.
        Örneğin bir Animal class'ınız var ve bu class "eat()" methoduna sahip ==> "Animal :: eat"
-     */
-}/*  public static void main(String[] args) {
+     *//*
+  public static void main(String[] args) {
         List<Integer> liste = new ArrayList<>();
         liste.add(8);
         liste.add(9);
